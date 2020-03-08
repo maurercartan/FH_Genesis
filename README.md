@@ -3,7 +3,7 @@
 
 名稱：Genesis系統功能模擬
 
-說明：自我開發類似於(PCB Genesis)的部分功能, 包含物件間的距離量測、統計物件數量等功能。
+說明：開發(PCB Genesis)的部分功能, 包含物件間的距離量測、統計物件數量等功能。
 
 程式來源請參考：　https://github.com/aitjcize/QCamber
 
